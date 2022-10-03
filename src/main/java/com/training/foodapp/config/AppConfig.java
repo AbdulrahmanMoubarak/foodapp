@@ -1,4 +1,4 @@
-package com.training.foodapp;
+package com.training.foodapp.config;
 
 import com.training.foodapp.services.RecipeService;
 import org.springframework.aop.scope.DefaultScopedObject;
